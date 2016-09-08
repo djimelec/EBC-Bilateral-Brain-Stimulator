@@ -17,6 +17,8 @@ In the process EMDR, the therapist works with the patient to identify a specific
 Bilateral stimulation can be:
 • a) Visual: the patient moves eyes side to side guided by the therapist
 • b) Hearing: the patient hears sounds alternately in both ears
-• c) Kinesthetic: the therapist gently taps and alternately on the hands or shoulders of the patient. This facilitates the connection between the two cerebral hemispheres obtaining the information processing and decreased emotional burden.
+• c) Kinesthetic: the therapist gently taps and alternately on the hands or shoulders of the patient. 
+
+This facilitates the connection between the two cerebral hemispheres obtaining the information processing and decreased emotional burden.
 
 In this repository I will store all documents have been generated for the design and execution, (both hardware and software HW, SW) of a device to help psychotherapists in the application of EMDR.
