@@ -1,6 +1,8 @@
 # EBC-Bilateral-Brain-Stimulator
 
-Electronic equipment for EMDR psychotherapy foreground of EMDR
+Electronic equipment for EMDR psychotherapy
+
+Foreground of EMDR
 
 In 1987, Francine Shapiro, an American psychologist, found that voluntary eye movements reduced the intensity of the anguish of negative thoughts.
 
